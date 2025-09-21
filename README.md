@@ -1,5 +1,5 @@
 # Blender2Dynamixel
-> Export Blender animations and control Dynamixel motors in real-time
+> Export Blender animations and control Dynamixel motors
 
 ## 📋 Overview
 A system that exports animations from Blender and reproduces them on physical Dynamixel servo motors.
